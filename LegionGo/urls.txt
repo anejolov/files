@@ -1,1 +1,7 @@
 audio_driver:https://download.lenovo.com/consumer/mobiles/pfx8040fpjnc3ff0.exe
+bt_driver:https://download.lenovo.com/consumer/mobiles/pfx8040fls0evff0.exe
+reader_driver:https://download.lenovo.com/consumer/mobiles/pfx8030febhfyff0.exe
+apu_driver:https://download.lenovo.com/consumer/mobiles/pfx8050f88t32ff0.exe
+chipset_driver:https://download.lenovo.com/consumer/mobiles/pfx8050f17vz1ff0.exe
+power_driver:https://download.lenovo.com/consumer/mobiles/wwe00mae40.exe
+space:https://s3.service.lenovo.com/legion/cms/v24.08.29.01/legionspace.exe
